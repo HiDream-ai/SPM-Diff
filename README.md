@@ -16,4 +16,18 @@ This is the official repository for the
 "Incorporating Visual Correspondence into Diffusion Model for Visual Try-On"
 
 ## Overview
-![](figure.png "Overview of our approach")
+![](image.png "Overview of our approach")
+We novelly propose to explicitly capitalize
+on visual correspondence as the prior to tame diffusion process instead of simply
+feeding the whole garment into UNet as the appearance reference.
+
+## Installation
+Create a conda environment & Install requirments
+```
+conda create -n SPM-Diff python==3.9.0
+conda activate SPM-Diff
+cd SPM-Diff-main 
+pip install -r requirements.txt
+```
+## 
+
