@@ -1,4 +1,4 @@
-<h1>ICLR24 Incorporating Visual Correspondence into Diffusion Model for Visual Try-On</h1>
+<h1>ICLR24: Incorporating Visual Correspondence into Diffusion Model for Visual Try-On</h1>
 <div>
     <a>Siqi Wan</a><sup>1</sup>,
     <a>Jingwen Chen</a><sup>2</sup>,
@@ -36,5 +36,25 @@ into 3D-aware cues with depth/normal map, which act as semantic point matching t
 diffusion model.
 
 You can directly download the [Semantic Point Feature](*) or follow the instructions in [preprocessing.md](*) to extract the Semantic Point Feature yourself.
+
+## Dataset
+You can download the VITON-HD dataset from [here](https://github.com/xiezhy6/GP-VTON) <br>
+For inference, the following dataset structure is required: <br>
+```
+test
+|-- image
+|-- masked_vton_img 
+|-- warp-cloth
+|-- cloth
+|-- cloth_mask
+```
+## Inference
+Please download the pre-trained model from [Google Link](*)
+```
+sh inference.sh
+```
+## Acknowledgement
+Thanks the contribution of [LaDI-VTON](https://github.com/miccunifi/ladi-vton) and [GP-VTON](https://github.com/xiezhy6/GP-VTON).
+## Citation
 
 
