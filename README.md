@@ -29,5 +29,12 @@ conda activate SPM-Diff
 cd SPM-Diff-main 
 pip install -r requirements.txt
 ```
-## 
+## Semantic Point Matching
+In SPM, a set of semantic points on the garment are first sampled and matched to the
+corresponding points on the target person via local flow warping. Then, these 2D cues are augmented
+into 3D-aware cues with depth/normal map, which act as semantic point matching to supervise
+diffusion model.
+
+You can directly download the [Semantic Point Feature](*) or follow the instructions in [preprocessing.md](*) to extract the Semantic Point Feature yourself.
+
 
