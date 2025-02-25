@@ -47,6 +47,7 @@ test
 |-- warp-cloth
 |-- cloth
 |-- cloth_mask
+|-- point
 ```
 ## Inference
 Please download the pre-trained model from [Google Link](*)
