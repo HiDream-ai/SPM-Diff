@@ -1,4 +1,4 @@
-<h1>ICLR24: Incorporating Visual Correspondence into Diffusion Model for Visual Try-On</h1>
+<h1>ICLR25: Incorporating Visual Correspondence into Diffusion Model for Visual Try-On</h1>
 <div>
     <a>Siqi Wan</a><sup>1</sup>,
     <a>Jingwen Chen</a><sup>2</sup>,
