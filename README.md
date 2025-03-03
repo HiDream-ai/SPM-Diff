@@ -59,11 +59,11 @@ Thanks the contribution of [LaDI-VTON](https://github.com/miccunifi/ladi-vton) a
 ## Citation
 ```
 @inproceedings{
-wan2025incorporating,
-title={Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On},
-author={Siqi Wan and Jingwen Chen and Yingwei Pan and Ting Yao and Tao Mei},
-booktitle={ICLR},
-year={2025},
+ wan2025incorporating,
+ title={Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On},
+ author={Siqi Wan and Jingwen Chen and Yingwei Pan and Ting Yao and Tao Mei},
+ booktitle={ICLR},
+ year={2025},
 }
 ```
 
