@@ -38,7 +38,7 @@ diffusion model.
 You can directly download the [Semantic Point Feature](*) or follow the instructions in [preprocessing.md](*) to extract the Semantic Point Feature yourself.
 
 ## Dataset
-You can download the VITON-HD dataset from [here](https://github.com/xiezhy6/GP-VTON) <br>
+You can download the VITON-HD dataset from [here](https://github.com/sangyun884/HR-VITON)) <br>
 For inference, the following dataset structure is required: <br>
 ```
 test
