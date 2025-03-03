@@ -50,7 +50,7 @@ test
 |-- point
 ```
 ## Inference
-Please download the pre-trained model from [Google Link](*)
+Please download the pre-trained model from [Link](https://huggingface.co/HiDream-ai/SPM-Diff).
 ```
 sh inference.sh
 ```
